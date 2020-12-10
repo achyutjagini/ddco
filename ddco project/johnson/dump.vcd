@@ -1,0 +1,18 @@
+$date
+	Tue Nov 17 14:23:50 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_johnson $end
+$var wire 4 ! Count_out [3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+$end
+#50
